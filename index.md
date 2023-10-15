@@ -7,3 +7,9 @@
 ``` javascript
 var myVarrr = "Hello my name is georgio";
 ```
+
+
+- [ ] Open the file
+- [ ] edit file
+- [ ] make changes
+- [ ] submit
